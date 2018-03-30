@@ -3,7 +3,7 @@ A Nethack game based on Rogue type using C++
 so in the begging the game will ask you to choose a mode :
 
 1- an automatic mode :
-  + the levels are created automaticly and rondomly
+  + the levels are created automatically and rondomly
   + the rooms are made rondomly
   + the doors in each room are made rondomly
   + the routes between each rooms/doors  are made using the A* algorithm
