@@ -36,4 +36,8 @@ so in the begging the game will ask you to choose a mode :
  
 ... maybe i forgot something
 
-# All this project was made with the colaboration of my binomial @Ziyi Zhou
+![lev](https://user-images.githubusercontent.com/25527939/38149724-065c7710-345c-11e8-8797-f6f24994a158.png)
+
+
+
+# the project was made with the colaboration of my binomial @Ziyi Zhou
