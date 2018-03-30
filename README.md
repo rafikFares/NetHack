@@ -25,6 +25,7 @@ so in the begging the game will ask you to choose a mode :
   - P is the open door to the previous level
   - for each move you do monsters will move alsso
   - after killing a monster you may get an object (W, R increase your power | M, P increase your health)
+  - you will only see the monsters in your current room (each room contains between 2 to 4 monsters)
 
  - compile :
    - make sure you have the library ncursus in your pc
