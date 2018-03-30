@@ -27,9 +27,9 @@ so in the begging the game will ask you to choose a mode :
   - after killing a monster you may get an object (W, R increase your power | M, P increase your health)
 
  - compile :
-  - make sure you have the library ncursus in your pc
-  - in a terminal just execute make (to compile)
-  - execute ./main to run the game
+   - make sure you have the library ncursus in your pc
+   - in a terminal just execute make (to compile)
+   - execute ./main to run the game
  
 ... maybe i forgot something
 
