@@ -25,7 +25,12 @@ so in the begging the game will ask you to choose a mode :
   - P is the open door to the previous level
   - for each move you do monsters will move alsso
   - after killing a monster you may get an object (W, R increase your power | M, P increase your health)
-  
+
+ - compile :
+  - make sure you have the library ncursus in your pc
+  - in a terminal just execute make (to compile)
+  - execute ./main to run the game
+ 
 ... maybe i forgot something
 
 # All this project was made with the colaboration of my binomial @Ziyi Zhou
