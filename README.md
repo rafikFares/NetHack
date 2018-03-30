@@ -1,11 +1,13 @@
 # NetHack C/C++ ROGUE GAME
 A Nethack game based on Rogue type using C++
 so in the begging the game will ask you to choose a mode :
+
 1- an automatic mode :
   + the levels are created automaticly and rondomly
   + the rooms are made rondomly
   + the doors in each room are made rondomly
   + the routes between each rooms/doors  are made using the A* algorithm
+  
 2- a manual mode : 
   + the levels are created from the files 1, 2, 3, 4, 5 (which contains the levels)
 
